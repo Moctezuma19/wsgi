@@ -37,4 +37,4 @@ Ubicar la línea que contiene la palabra `ports` en el archivo `docker-compose.y
 
 ## Instrucciones para modificar las rutinas que realiza nuestro servicio
 
-Se deberá modificar el archivo `run.py` que está en `flask/src` y por supuesto debería despues volver a ejecutar `docker-compose up --build`
+Se deberá modificar el archivo `run.py` que está en `flask/src` y por supuesto debería despues volver a ejecutar `docker-compose up --build`.
