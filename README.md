@@ -1,4 +1,4 @@
-# Servidor HTTP con Python
+# Servidor HTTP con Python 3
 
 Este archivo contiene la información necesaria para construir las imagenes de docker e iniciar los contenedores
 
